@@ -3,13 +3,13 @@ import { getAuth, GoogleAuthProvider } from "firebase/auth";
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyDjeQOxPvKwHockHNDnJoME0SflfssL4bs",
-  authDomain: "video-call-daily.firebaseapp.com",
-  projectId: "video-call-daily",
-  storageBucket: "video-call-daily.firebasestorage.app",
-  messagingSenderId: "282525670122",
-  appId: "1:282525670122:web:a76766d7c0b40d21075593",
-  measurementId: "G-RLWZXL4R7V"
+  apiKey: "AIzaSyD2E1dW0SLoFNJiKkhwERVsYaCT4J8rzgM",
+  authDomain: "nhom1videocall.firebaseapp.com",
+  projectId: "nhom1videocall",
+  storageBucket: "nhom1videocall.firebasestorage.app",
+  messagingSenderId: "238502631385",
+  appId: "1:238502631385:web:f6992363e2953a60c62bc8",
+  measurementId: "G-84ZWQQVT6Y"
 };
 
 // Initialize Firebase
