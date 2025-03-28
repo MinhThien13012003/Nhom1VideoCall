@@ -1,6 +1,6 @@
 
 const BASE_URL = "https://api.daily.co/v1"; // Sẽ thay thế sau
-const DAILY_API_KEY = import.meta.env.VITE_DAILY_API_KEY; // Key API
+const DAILY_API_KEY = "89b5481d594c4561f369597624e22d1c5c16f45cbd915f9b221b914491afd977" // Key API
 
 // Hàm gọi API với header Authorization
 const headers = {
